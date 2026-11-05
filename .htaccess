@@ -1,0 +1,13 @@
+# Family Tree — Apache config
+
+# No directory listings
+Options -Indexes
+
+# Pass the Authorization header through to PHP (stripped by default on
+# CGI/FastCGI setups, which would make every API call return 401)
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+# Block direct access to sensitive files
+<FilesMatch "^(config\.php|trees\.db.*|\.env.*)$">
+    Require all denied
+</FilesMatch>
