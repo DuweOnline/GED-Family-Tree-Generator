@@ -1,0 +1,146 @@
+0 HEAD
+1 GEDC
+2 VERS 7.0
+1 SOUR FamilyTreeApp
+1 LANG en
+1 NOTE Fictional demo family. Every person and place here is made up.
+0 @I1@ INDI
+1 NAME Arthur /Whitlow/
+2 GIVN Arthur
+2 SURN Whitlow
+1 SEX M
+1 BIRT
+2 DATE 14 MAR 1898
+2 PLAC Little Brampton, Shropshire, England
+1 OCCU Blacksmith
+1 DEAT
+2 DATE 2 NOV 1971
+2 PLAC Little Brampton, Shropshire, England
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Edith May /Carrow/
+2 GIVN Edith May
+2 SURN Carrow
+1 SEX F
+1 BIRT
+2 DATE 9 JUL 1901
+2 PLAC Clunbury, Shropshire, England
+1 DEAT
+2 DATE 18 JAN 1985
+2 PLAC Ludlow, Shropshire, England
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Harold James /Whitlow/
+2 GIVN Harold James
+2 SURN Whitlow
+1 SEX M
+1 BIRT
+2 DATE 22 MAY 1925
+2 PLAC Little Brampton, Shropshire, England
+1 OCCU Schoolteacher
+1 RESI
+2 DATE 1951
+2 PLAC Hereford, Herefordshire, England
+1 DEAT
+2 DATE 30 SEP 2004
+2 PLAC Hereford, Herefordshire, England
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Margaret Rose /Whitlow/
+2 GIVN Margaret Rose
+2 SURN Whitlow
+2 NICK Peggy
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1928
+2 PLAC Little Brampton, Shropshire, England
+1 DEAT
+2 DATE 11 AUG 2015
+2 PLAC Shrewsbury, Shropshire, England
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Joan /Pellow/
+2 GIVN Joan
+2 SURN Pellow
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1927
+2 PLAC Penzance, Cornwall, England
+1 OCCU Nurse
+1 DEAT
+2 DATE 6 APR 2010
+2 PLAC Hereford, Herefordshire, England
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME David Arthur /Whitlow/
+2 GIVN David Arthur
+2 SURN Whitlow
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1953
+2 PLAC Hereford, Herefordshire, England
+1 OCCU Engineer
+1 FAMC @F2@
+1 FAMS @F3@
+0 @I7@ INDI
+1 NAME Susan Clare /Whitlow/
+2 GIVN Susan Clare
+2 SURN Whitlow
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1956
+2 PLAC Hereford, Herefordshire, England
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Anita /Rao/
+2 GIVN Anita
+2 SURN Rao
+1 SEX F
+1 BIRT
+2 DATE 5 SEP 1958
+2 PLAC Leicester, Leicestershire, England
+1 FAMS @F3@
+0 @I9@ INDI
+1 NAME Thomas /Whitlow/
+2 GIVN Thomas
+2 SURN Whitlow
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1985
+2 PLAC Bristol, England
+1 FAMC @F3@
+0 @I10@ INDI
+1 NAME Priya Joan /Whitlow/
+2 GIVN Priya Joan
+2 SURN Whitlow
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1988
+2 PLAC Bristol, England
+1 FAMC @F3@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 MARR
+2 DATE 20 JUN 1923
+2 PLAC Clunbury, Shropshire, England
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I5@
+1 CHIL @I6@
+1 CHIL @I7@
+1 MARR
+2 DATE 14 APR 1951
+2 PLAC Hereford, Herefordshire, England
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 MARR
+2 DATE 1 AUG 1983
+2 PLAC Leicester, Leicestershire, England
+0 TRLR

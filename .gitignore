@@ -11,6 +11,7 @@ config.php
 *.ged
 *.GED
 *.gedcom
+!demo/*.ged
 *.db
 *.db-*
 *.sqlite
