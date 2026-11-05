@@ -107,3 +107,7 @@ All endpoints are `api.php?action=…`. Everything except `auth` needs an `Autho
 ## Privacy
 
 Real family data is never committed. `.gitignore` excludes `config.php`, `.env*`, every `*.ged` file outside `demo/`, and all SQLite and SQL files (`*.db`, `*.sqlite`, `*.sql`, backups). Keep exports and databases out of the repository.
+
+## Licence
+
+Family Tree is released under the [MIT License](LICENSE), © 2026 [Mark Duwe](https://duwe.co.uk). You can use, change and share it freely, including commercially, as long as you keep the copyright and licence notice in all copies or substantial portions of the code.
